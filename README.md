@@ -24,13 +24,5 @@ Depolama: Tarayıcı tabanlı localStorage (Verileriniz telefonunuzda kalır).
 
 Tasarım: Plus Jakarta Sans yazı tipi ile optimize edilmiş kullanıcı arayüzü.
 
-🚀 Kurulum
-Bu depoyu (repository) klonlayın veya .zip olarak indirin.
-
-index.html dosyasını herhangi bir tarayıcıda açın.
-
-Uygulamanın keyfini çıkarmaya başlayın!
-
-⚠️ Önemli Not: Uygulama yerel depolama kullandığı için tarayıcı önbelleğini temizlemeniz notlarınızın silinmesine neden olabilir. Önemli verileriniz için düzenli olarak Ayarlar > Yedek Al özelliğini kullanın.
 
 
