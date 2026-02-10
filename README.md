@@ -34,4 +34,5 @@ Uygulamanın keyfini çıkarmaya başlayın!
 ⚠️ Önemli Not: Uygulama yerel depolama kullandığı için tarayıcı önbelleğini temizlemeniz notlarınızın silinmesine neden olabilir. Önemli verileriniz için düzenli olarak Ayarlar > Yedek Al özelliğini kullanın.
 
 🌐 Destek ve İletişim
-Sorularınız, hata bildirimleriniz veya SSS bölümü için resmi web sitemizi ziyaret edebilirsiniz: 👉 Zenth Notes Resmi Web Sitesi
+Sorularınız, hata bildirimleriniz veya SSS bölümü için resmi web sitemizi ziyaret edebilirsiniz: 👉 https://sites.google.com/view/zenth-notes/ana-sayfa
+
